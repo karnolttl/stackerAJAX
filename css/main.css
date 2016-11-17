@@ -31,7 +31,7 @@
 	clear: both;
 }
 
-.inspiration { 
+.inspiration {
 	margin-left: 3em;
 }
 
@@ -39,6 +39,11 @@
 	border: 1px solid black;
 	padding: 5px;
 	margin: 0 auto 1em auto;
+}
+
+.answerer {
+	width: 188px;
+	display: inline-block;
 }
 
 .error {
